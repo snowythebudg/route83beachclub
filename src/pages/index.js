@@ -11,10 +11,10 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"index"} />
 		<Helmet>
 			<title>
-				Quarkly export
+				Route 83 Beach Club - Music from the shoreline to your speakers
 			</title>
-			<meta name={"description"} content={"Web site created using quarkly.io"} />
-			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
+			<meta name={"description"} content={"As much as it looks like a nightclub, we are not. Route 83 Beach Club is a distribution-foused label exclusively for brand new artists, We provide exclusive distribution through The Orchard and accept most if not all genres!"} />
+			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/6854e3263b5d6f001f996a80/images/HI-83.svg.png?v=2025-06-20T20:55:16.406Z"} type={"image/x-icon"} />
 		</Helmet>
 		<Section sm-padding="8px 0 8px 0" quarkly-title="Header-6" padding="24px 0px 24px 0px" background="#000000">
 			<Override
