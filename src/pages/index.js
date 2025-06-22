@@ -252,7 +252,7 @@ export default (() => {
 							</Text>
 						</Box>
 						<Text margin="16px 0px 0px 0px" font="--base" color="--lightD2">
-							We provide new talent with our high-tier distribution through The Orchard
+							We provide new talent with our high-tier distribution
 						</Text>
 					</Box>
 					<Box

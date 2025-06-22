@@ -156,7 +156,6 @@ export default {
 			}
 		}
 	},
-	"version": 1,
 	"fonts": {
 		"Gabarito": {
 			"family": "Gabarito",
@@ -233,5 +232,6 @@ export default {
 				]
 			}
 		}
-	}
+	},
+	"version": 12
 }
